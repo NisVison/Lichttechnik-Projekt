@@ -1,11 +1,19 @@
 # Lichttechnik-Projekt
-Stimmungsvariationen durch Licht & Farbspiel bei konstanter Szene.
-----
+### Stimmungsvariationen durch Licht & Farbspiel bei konstanter Szene.
+
+<p>Dieses Repository dokumentiert ein Studio-Projekt zur Erzeugung unterschiedlicher Stimmungen in einer unveränderten Szene ausschließlich durch Licht- und Farbgestaltung.</p>
+
+[📄 Lichttechnik_Projekt.pdf](Lichttechnik_Projekt.pdf)
 
 ## Messungen: 
 Zur Objektivierung der Lichtstimmungen wurden Spektralmessungen mit einem JETI-Spektroradiometer durchgeführt. 
 Die Messungen dienten primär der technischen Einordnung der Lichtquellen (Spektrum/Chromatizität/Luminanz), zeigten jedoch auch methodische Grenzen 
 Die Ergebnisse wurden daher als explorative Referenz und „Lessons Learned“ dokumentiert, nicht als alleinige Bewertungsgrundlage.
+
+<figure>
+  <img src="Beispiel%20aus%20messung.png" alt="Beispielmessung" style="width:100%;">
+  <figcaption>Arry Scheinwerfer Beispielmessung</figcaption>
+</figure>
 
 ## Setup:
 - 2× Sony Alpha (2 Perspektiven)
