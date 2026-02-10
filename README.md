@@ -3,6 +3,8 @@
 
 <p>Dieses Repository dokumentiert ein Studio-Projekt zur Erzeugung unterschiedlicher Stimmungen in einer unveränderten Szene ausschließlich durch Licht- und Farbgestaltung.</p>
 
+[📄 Lichttechnik_Projekt.pdf](docs/Lichttechnik_Projekt.pdf)
+
 ## Messungen: 
 Zur Objektivierung der Lichtstimmungen wurden Spektralmessungen mit einem JETI-Spektroradiometer durchgeführt. 
 Die Messungen dienten primär der technischen Einordnung der Lichtquellen (Spektrum/Chromatizität/Luminanz), zeigten jedoch auch methodische Grenzen 
